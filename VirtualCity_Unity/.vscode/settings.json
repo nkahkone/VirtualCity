@@ -52,5 +52,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "VirtualCity_Unity.sln"
+    "dotnet.defaultSolution": "VirtualCity_Unity.slnx"
 }
