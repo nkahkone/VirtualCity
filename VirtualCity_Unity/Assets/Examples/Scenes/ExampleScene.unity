@@ -107201,7 +107201,7 @@ MonoBehaviour:
   apiUrl: https://factual-perfume-squander.ngrok-free.dev/weather/14034
   temperatureText: {fileID: 122021566}
   displayFormat: "Tien l\xE4mp\xF6tila\n{0:F1} \xB0C"
-  updateInterval: 45
+  updateInterval: 10
   showDebugLogs: 1
 --- !u!1 &319005064
 GameObject:
